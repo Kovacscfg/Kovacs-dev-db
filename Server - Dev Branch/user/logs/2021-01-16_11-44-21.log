@@ -1,0 +1,70 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.42s] [SUCCESS]-Create: Static Response Callbacks
+[0.43s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.44s] [SUCCESS]-Create: Cache Callback
+[0.45s] [SUCCESS]-Create: Start Callback
+[0.45s] [SUCCESS]-Create: Receive Callback
+[0.45s] [SUCCESS]-Create: Respond Callback
+[0.45s] [SUCCESS]-Create: Classes as global variables
+[0.47s] [SUCCESS]-Create: Item Action Callbacks
+[0.47s] -┌────────────────────────┐
+[0.47s] -│ JustEmuTarkov 1.0.3    │
+[0.47s] -│ « discord.gg/T66tGKa » │
+[0.47s] -└────────────────────────┘
+[5.38s] [SUCCESS]-[LootFix] Settings applied
+[6.88s] [SUCCESS]-[MOD] LootFix; Applied
+[6.91s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[7.78s] [LOCAL] -/launcher/server/connect
+[10.97s] [LOCAL] -/launcher/profile/login
+[10.97s] [LOCAL] -/launcher/profile/get
+[16.77s] [LOCAL] -/singleplayer/bundles
+[16.95s] [LOCAL] -/mode/offline
+[29.14s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[29.19s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[29.24s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[29.28s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[29.31s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[30.23s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[39.77s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[39.83s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[40.72s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[41.79s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[41.84s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[41.92s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[41.95s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[41.95s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[41.99s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[42.05s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[42.90s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[47.93s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[48.35s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[48.60s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[48.69s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[48.79s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[48.85s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[50.70s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[51.74s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[51.77s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[51.77s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[51.77s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[51.80s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[51.82s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[51.94s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[51.96s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[52.12s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[142.26s] [LOCAL] -/singleplayer/settings/raid/menu
+[146.99s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[256.34s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[256.35s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[256.36s] [LOCAL] -/singleplayer/settings/bot/limit/marksman
+[256.38s] [LOCAL] -/singleplayer/settings/bot/limit/marksman
+[256.39s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[256.40s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[256.41s] [LOCAL] -/singleplayer/settings/bot/limit/pmcBot
+[256.42s] [LOCAL] -/singleplayer/settings/bot/limit/pmcBot
+[256.43s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[256.44s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[256.46s] [LOCAL] -/singleplayer/settings/bot/limit/bossBully
+[256.47s] [LOCAL] -/singleplayer/settings/bot/limit/followerBully
+[256.50s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate

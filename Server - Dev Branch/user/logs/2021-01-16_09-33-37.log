@@ -1,0 +1,19 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.06s] [WARNING]-Rebuilding cache system
+[0.50s] [WARNING]-Mod Kovacs-mini14-1.0.0 not installed, adding it to the modlist
+[0.57s] [SUCCESS]-Create: Static Response Callbacks
+[0.58s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.60s] [SUCCESS]-Create: Cache Callback
+[0.60s] [SUCCESS]-Create: Start Callback
+[0.60s] [SUCCESS]-Create: Receive Callback
+[0.61s] [SUCCESS]-Create: Respond Callback
+[0.61s] [SUCCESS]-Create: Classes as global variables
+[0.63s] [SUCCESS]-Create: Item Action Callbacks
+[0.64s] -┌────────────────────────┐
+[0.64s] -│ JustEmuTarkov 1.0.3    │
+[0.64s] -│ « discord.gg/T66tGKa » │
+[0.64s] -└────────────────────────┘
+[3.44s] [SUCCESS]-[LootFix] Settings applied
+[3.65s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[5.06s] [SUCCESS]-[MOD] LootFix; Applied
+[5.08s] [SUCCESS]-Server is working at: https://127.0.0.1:443

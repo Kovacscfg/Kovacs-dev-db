@@ -1,0 +1,39 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.55s] [SUCCESS]-Create: Static Response Callbacks
+[0.56s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.57s] [SUCCESS]-Create: Cache Callback
+[0.58s] [SUCCESS]-Create: Start Callback
+[0.58s] [SUCCESS]-Create: Receive Callback
+[0.58s] [SUCCESS]-Create: Respond Callback
+[0.58s] [SUCCESS]-Create: Classes as global variables
+[0.60s] [SUCCESS]-Create: Item Action Callbacks
+[0.61s] -┌────────────────────────┐
+[0.61s] -│ JustEmuTarkov 1.0.3    │
+[0.61s] -│ « discord.gg/T66tGKa » │
+[0.61s] -└────────────────────────┘
+[5.66s] [SUCCESS]-[LootFix] Settings applied
+[7.06s] [SUCCESS]-[MOD] LootFix; Applied
+[7.09s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[9.38s] [LOCAL] -/launcher/server/connect
+[11.19s] [LOCAL] -/launcher/profile/login
+[11.20s] [LOCAL] -/launcher/profile/get
+[21.79s] [LOCAL] -/singleplayer/bundles
+[21.97s] [LOCAL] -/mode/offline
+[36.07s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[36.12s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[36.17s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[36.21s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[36.25s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[37.34s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[46.65s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[46.72s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[47.39s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[48.26s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[48.30s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[48.39s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[48.41s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[48.41s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[48.45s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[48.49s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[78.87s] [AID015919146370226073L4Q][LOCAL] -/client/locations?retry=1

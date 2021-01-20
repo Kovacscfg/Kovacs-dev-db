@@ -1,0 +1,53 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.38s] [SUCCESS]-Create: Static Response Callbacks
+[0.39s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.40s] [SUCCESS]-Create: Cache Callback
+[0.41s] [SUCCESS]-Create: Start Callback
+[0.41s] [SUCCESS]-Create: Receive Callback
+[0.41s] [SUCCESS]-Create: Respond Callback
+[0.41s] [SUCCESS]-Create: Classes as global variables
+[0.43s] [SUCCESS]-Create: Item Action Callbacks
+[0.44s] -┌────────────────────────┐
+[0.44s] -│ JustEmuTarkov 1.0.3    │
+[0.44s] -│ « discord.gg/T66tGKa » │
+[0.44s] -└────────────────────────┘
+[3.11s] [SUCCESS]-[LootFix] Settings applied
+[4.60s] [SUCCESS]-[MOD] LootFix; Applied
+[4.63s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[11.24s] [LOCAL] -/singleplayer/bundles
+[11.44s] [LOCAL] -/mode/offline
+[23.09s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[23.15s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[23.20s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[23.24s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[23.27s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[24.24s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[33.99s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[34.05s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[34.91s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[35.97s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[36.00s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[36.07s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[36.09s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[36.09s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[36.13s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[36.16s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[36.97s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[42.33s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[42.80s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[43.08s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[43.18s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[43.29s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[43.35s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[45.21s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[46.35s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[46.38s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[46.38s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[46.38s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[46.42s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[46.42s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[46.58s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[46.58s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[46.76s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[56.25s] [AID015919146370226073L4Q][LOCAL] -/client/game/logout

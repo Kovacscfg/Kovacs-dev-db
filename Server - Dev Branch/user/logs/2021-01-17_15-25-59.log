@@ -1,0 +1,28 @@
+[0.07s] [ERROR]-Missing files! Rebuilding cache required!
+[0.08s] [WARNING]-Rebuilding cache system
+[0.46s] [SUCCESS]-Create: Static Response Callbacks
+[0.47s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.48s] [SUCCESS]-Create: Cache Callback
+[0.49s] [SUCCESS]-Create: Start Callback
+[0.49s] [SUCCESS]-Create: Receive Callback
+[0.49s] [SUCCESS]-Create: Respond Callback
+[0.49s] [SUCCESS]-Create: Classes as global variables
+[0.52s] [SUCCESS]-Create: Item Action Callbacks
+[0.52s] -┌────────────────────────┐
+[0.52s] -│ JustEmuTarkov 1.0.3    │
+[0.52s] -│ « discord.gg/T66tGKa » │
+[0.52s] -└────────────────────────┘
+[3.67s] [SUCCESS]-[LootFix] Settings applied
+[5.49s] [SUCCESS]-[MOD] LootFix; Applied
+[5.53s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[12.44s] [LOCAL] -/singleplayer/settings/raid/menu
+[14.45s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[42.83s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[119.63s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[449.53s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[457.55s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[501.39s] [AID015919146370226073L4Q][LOCAL] -/raid/profile/save
+[501.39s] [ERROR]-insurance Disabled!! cause of varaible undefined or file not found. Check line 249-250 at src/classes/offraid.js
+[501.39s] [ERROR]-Disabling: Remove map key on entering, cause of offraid_f.handler.players[sessionID] is undefined
+[506.18s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[525.80s] [AID015919146370226073L4Q][LOCAL] -/client/items

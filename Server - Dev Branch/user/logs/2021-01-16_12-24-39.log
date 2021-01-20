@@ -1,0 +1,65 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.40s] [SUCCESS]-Create: Static Response Callbacks
+[0.41s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.42s] [SUCCESS]-Create: Cache Callback
+[0.43s] [SUCCESS]-Create: Start Callback
+[0.43s] [SUCCESS]-Create: Receive Callback
+[0.43s] [SUCCESS]-Create: Respond Callback
+[0.43s] [SUCCESS]-Create: Classes as global variables
+[0.45s] [SUCCESS]-Create: Item Action Callbacks
+[0.45s] -┌────────────────────────┐
+[0.45s] -│ JustEmuTarkov 1.0.3    │
+[0.45s] -│ « discord.gg/T66tGKa » │
+[0.45s] -└────────────────────────┘
+[3.04s] [SUCCESS]-[LootFix] Settings applied
+[4.46s] [SUCCESS]-[MOD] LootFix; Applied
+[4.48s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[13.76s] [LOCAL] -/singleplayer/bundles
+[13.95s] [LOCAL] -/mode/offline
+[25.80s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[25.85s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[25.90s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[25.94s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[25.98s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[26.80s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[36.79s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[36.84s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[37.73s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[38.74s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[38.78s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[38.84s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[38.87s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[38.87s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[38.92s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[39.00s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[39.96s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[45.34s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[45.74s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[45.80s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[45.88s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[45.99s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[46.05s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[47.04s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[48.11s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[48.14s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[48.14s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[48.14s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[48.14s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[48.19s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[48.31s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[48.31s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[48.52s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[195.45s] [LOCAL] -/singleplayer/settings/raid/menu
+[196.13s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[315.90s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[414.30s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[414.32s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[416.30s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[425.28s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[430.32s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[430.34s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[434.32s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[454.27s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[470.28s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[488.32s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate

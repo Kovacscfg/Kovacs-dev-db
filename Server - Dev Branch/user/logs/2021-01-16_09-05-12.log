@@ -1,0 +1,39 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.06s] [WARNING]-Rebuilding cache system
+[0.56s] [SUCCESS]-Create: Static Response Callbacks
+[0.57s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.58s] [SUCCESS]-Create: Cache Callback
+[0.59s] [SUCCESS]-Create: Start Callback
+[0.59s] [SUCCESS]-Create: Receive Callback
+[0.59s] [SUCCESS]-Create: Respond Callback
+[0.59s] [SUCCESS]-Create: Classes as global variables
+[0.61s] [SUCCESS]-Create: Item Action Callbacks
+[0.62s] -┌────────────────────────┐
+[0.62s] -│ JustEmuTarkov 1.0.3    │
+[0.62s] -│ « discord.gg/T66tGKa » │
+[0.62s] -└────────────────────────┘
+[3.30s] [SUCCESS]-[LootFix] Settings applied
+[4.67s] [SUCCESS]-[MOD] LootFix; Applied
+[4.70s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[5.90s] [LOCAL] -/launcher/server/connect
+[7.70s] [LOCAL] -/launcher/profile/login
+[7.71s] [LOCAL] -/launcher/profile/get
+[13.26s] [LOCAL] -/singleplayer/bundles
+[13.44s] [LOCAL] -/mode/offline
+[24.68s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[24.73s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[24.78s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[24.82s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[24.86s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[25.77s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[34.97s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[35.01s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[35.91s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[36.90s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[36.93s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[36.99s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[37.02s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[37.02s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[37.06s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[37.11s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[67.64s] [AID015919146370226073L4Q][LOCAL] -/client/locations?retry=1

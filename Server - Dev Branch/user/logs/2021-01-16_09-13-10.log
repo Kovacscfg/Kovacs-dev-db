@@ -1,0 +1,154 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.57s] [SUCCESS]-Create: Static Response Callbacks
+[0.58s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.59s] [SUCCESS]-Create: Cache Callback
+[0.60s] [SUCCESS]-Create: Start Callback
+[0.60s] [SUCCESS]-Create: Receive Callback
+[0.60s] [SUCCESS]-Create: Respond Callback
+[0.60s] [SUCCESS]-Create: Classes as global variables
+[0.63s] [SUCCESS]-Create: Item Action Callbacks
+[0.63s] -┌────────────────────────┐
+[0.63s] -│ JustEmuTarkov 1.0.3    │
+[0.63s] -│ « discord.gg/T66tGKa » │
+[0.63s] -└────────────────────────┘
+[3.36s] [SUCCESS]-[LootFix] Settings applied
+[4.78s] [SUCCESS]-[MOD] LootFix; Applied
+[4.80s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[10.97s] [LOCAL] -/singleplayer/bundles
+[11.15s] [LOCAL] -/mode/offline
+[22.72s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[22.75s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[22.81s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[22.84s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[22.88s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[23.79s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[33.10s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[33.16s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[34.12s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[34.96s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[34.99s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[35.09s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[35.11s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[35.11s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[35.14s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[35.19s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[36.06s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[40.54s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[40.89s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[40.93s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[41.01s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[41.12s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[41.20s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[42.50s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[43.55s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[43.58s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[43.58s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[43.59s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[43.59s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[43.64s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[43.79s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[43.79s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[44.89s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[68.54s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[72.63s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[74.14s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[74.25s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571
+[78.85s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[78.85s] [SUCCESS]-Items taken. Status OK.
+[78.85s] [SUCCESS]-Bought item: 5eeca646bfed7142cb31040f
+[78.94s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[78.99s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571
+[80.08s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[80.08s] [SUCCESS]-Items taken. Status OK.
+[80.08s] [SUCCESS]-Bought item: 5eeca646bfed7142cb31040f
+[80.14s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[80.19s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571
+[87.90s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[87.91s] [SUCCESS]-Items taken. Status OK.
+[87.91s] [SUCCESS]-Bought item: 5eeca646bfed7142cb3103b1
+[87.96s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[88.02s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571
+[94.68s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[95.30s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[96.04s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[123.89s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[126.09s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[126.14s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb57776803fa99248b456e
+[140.99s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[141.04s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571
+[143.45s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/58330581ace78e27b8b10cee
+[143.49s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/58330581ace78e27b8b10cee
+[145.28s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTrader/5ac3b934156ae10c4430e83c
+[146.01s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[146.06s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9
+[152.50s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[152.50s] [SUCCESS]-Items taken. Status OK.
+[152.50s] [SUCCESS]-Bought item: 5f004c181b27f811e5317d4b
+[152.57s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[152.63s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9
+[166.37s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[166.39s] [SUCCESS]-Items taken. Status OK.
+[166.39s] [SUCCESS]-Bought item: 5f004c031b27f811e5317c25
+[166.44s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[166.50s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9
+[171.02s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[171.02s] [SUCCESS]-Items taken. Status OK.
+[171.02s] [SUCCESS]-Bought item: 5f004bed1b27f811e5317ad5
+[171.08s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[171.15s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9
+[171.56s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTrader/5ac3b934156ae10c4430e83c
+[179.22s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[180.21s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[181.02s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[184.33s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[209.82s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[217.30s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[222.03s] [LOCAL] -/singleplayer/settings/raid/menu
+[224.00s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[415.98s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[416.00s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[416.01s] [LOCAL] -/singleplayer/settings/bot/limit/marksman
+[416.02s] [LOCAL] -/singleplayer/settings/bot/limit/marksman
+[416.04s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[416.05s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[416.06s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[416.07s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[416.09s] [LOCAL] -/singleplayer/settings/bot/limit/bossBully
+[416.10s] [LOCAL] -/singleplayer/settings/bot/limit/followerBully
+[416.13s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[1068.50s] [AID015919146370226073L4Q][LOCAL] -/raid/profile/save
+[1068.50s] [ERROR]-insurance Disabled!! cause of varaible undefined or file not found. Check line 249-250 at src/classes/offraid.js
+[1068.51s] [ERROR]-Disabling: Remove map key on entering, cause of offraid_f.handler.players[sessionID] is undefined
+[1075.85s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[1079.65s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[1081.29s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[1081.29s] [SUCCESS]-Items taken. Status OK.
+[1085.77s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[1091.28s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[1091.29s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[1091.47s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[1091.59s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[1091.64s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[1091.70s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[1091.70s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[1091.74s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[1091.78s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[1092.05s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[1096.54s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[1096.73s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[1096.78s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[1096.86s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[1096.90s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[1096.95s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[1097.28s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[1098.13s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[1098.17s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[1098.17s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[1098.17s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[1098.17s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[1098.18s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[1098.28s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[1098.28s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[1098.35s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[1101.70s] [AID015919146370226073L4Q][LOCAL] -/client/game/logout

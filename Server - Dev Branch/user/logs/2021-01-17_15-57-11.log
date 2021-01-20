@@ -1,0 +1,27 @@
+[0.06s] [ERROR]-Missing files! Rebuilding cache required!
+[0.07s] [WARNING]-Rebuilding cache system
+[0.43s] [SUCCESS]-Create: Static Response Callbacks
+[0.43s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.45s] [SUCCESS]-Create: Cache Callback
+[0.45s] [SUCCESS]-Create: Start Callback
+[0.45s] [SUCCESS]-Create: Receive Callback
+[0.45s] [SUCCESS]-Create: Respond Callback
+[0.45s] [SUCCESS]-Create: Classes as global variables
+[0.48s] [SUCCESS]-Create: Item Action Callbacks
+[0.48s] -┌────────────────────────┐
+[0.48s] -│ JustEmuTarkov 1.0.3    │
+[0.48s] -│ « discord.gg/T66tGKa » │
+[0.48s] -└────────────────────────┘
+[1.07s] [ERROR]-[Server]:1.0.3
+[1.07s] [ERROR]-[Trace]:
+SyntaxError: Unexpected token ] in JSON at position 4129
+    at JSON.parse (<anonymous>)
+    at Object.exports.readParsed (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\util\fileIO.js:1:314)
+    at Object.exports.cache [as cachelocations] (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\callbacks\cache\locations.js:12:25)
+    at Server.start (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\server.js:24:139)
+    at new Initializer (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\initializer.js:2:176)
+    at Object.<anonymous> (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\initializer.js:7:494)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)

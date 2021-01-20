@@ -1,0 +1,137 @@
+[0.06s] [ERROR]-Missing files! Rebuilding cache required!
+[0.07s] [WARNING]-Rebuilding cache system
+[0.84s] [SUCCESS]-Create: Static Response Callbacks
+[0.94s] [SUCCESS]-Create: Dynamic Response Callbacks
+[1.05s] [SUCCESS]-Create: Cache Callback
+[1.13s] [SUCCESS]-Create: Start Callback
+[1.14s] [SUCCESS]-Create: Receive Callback
+[1.16s] [SUCCESS]-Create: Respond Callback
+[1.16s] [SUCCESS]-Create: Classes as global variables
+[1.52s] [SUCCESS]-Create: Item Action Callbacks
+[1.53s] -┌────────────────────────┐
+[1.53s] -│ JustEmuTarkov 1.0.3    │
+[1.53s] -│ « discord.gg/T66tGKa » │
+[1.53s] -└────────────────────────┘
+[6.79s] [SUCCESS]-[LootFix] Settings applied
+[8.30s] [SUCCESS]-[MOD] LootFix; Applied
+[8.33s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[18.55s] [LOCAL] -/launcher/server/connect
+[20.20s] [LOCAL] -/launcher/profile/login
+[20.21s] [LOCAL] -/launcher/profile/get
+[27.63s] [LOCAL] -/singleplayer/bundles
+[27.84s] [LOCAL] -/mode/offline
+[40.50s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[40.55s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[40.61s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[40.64s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[40.68s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[41.73s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[51.83s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[51.87s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[52.77s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[53.85s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[53.89s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[53.94s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[53.97s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[53.97s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[54.01s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[54.06s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[54.89s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[60.20s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[60.77s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[61.01s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[61.11s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[61.20s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[61.26s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[62.81s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[63.87s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[63.91s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[63.91s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[63.91s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[63.91s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[63.97s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[64.12s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[64.12s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[64.32s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[69.65s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[99.52s] [LOCAL] -/singleplayer/settings/raid/menu
+[100.84s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[125.47s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[294.62s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[294.64s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[294.66s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[298.59s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[298.61s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[298.64s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[315.44s] [AID015919146370226073L4Q][LOCAL] -/raid/profile/save
+[315.45s] [ERROR]-insurance Disabled!! cause of varaible undefined or file not found. Check line 249-250 at src/classes/offraid.js
+[315.45s] [ERROR]-Disabling: Remove map key on entering, cause of offraid_f.handler.players[sessionID] is undefined
+[318.51s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[322.48s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[324.40s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[324.41s] [SUCCESS]-Items taken. Status OK.
+[326.77s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[331.79s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[331.82s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[332.00s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[332.12s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[332.18s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[332.24s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[332.24s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[332.26s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[332.31s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[332.57s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[337.74s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[337.81s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[337.87s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[337.95s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[338.02s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[338.09s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[338.80s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[339.70s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[339.73s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[339.75s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[339.75s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[339.75s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[339.75s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[339.83s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[339.84s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[339.90s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[400.00s] [ERROR]-[Server]:1.0.3
+[400.00s] [ERROR]-[Trace]:
+Error: ENOENT: no such file or directory, open 'user/cache/hideout_production.json'
+    at Object.openSync (fs.js:440:3)
+    at Object.readFileSync (fs.js:342:35)
+    at Object.readFileSync (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\Server.exe:201:55)
+    at Object.exports.readParsed (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\util\fileIO.js:1:332)
+    at updatePlayerHideout (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\classes\keepalive.js:38:26)
+    at Object.main (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\classes\keepalive.js:6:9)
+    at Object.exports.execute [as /client/game/keepalive] (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\response\client.game.keepalive.js:4:14)
+    at Router.getResponse (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\router.js:13:273)
+    at Server.sendResponse (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\server.js:16:461)
+    at Inflate.cb (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\server.js:19:229) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'user/cache/hideout_production.json'
+}
+[550.01s] [AID015919146370226073L4Q][LOCAL] -/client/game/keepalive?retry=1
+[550.01s] [ERROR]-[Server]:1.0.3
+[550.01s] [ERROR]-[Trace]:
+Error: ENOENT: no such file or directory, open 'user/cache/hideout_production.json'
+    at Object.openSync (fs.js:440:3)
+    at Object.readFileSync (fs.js:342:35)
+    at Object.readFileSync (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\Server.exe:201:55)
+    at Object.exports.readParsed (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\util\fileIO.js:1:332)
+    at updatePlayerHideout (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\classes\keepalive.js:38:26)
+    at Object.main (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\classes\keepalive.js:6:9)
+    at Object.exports.execute [as /client/game/keepalive] (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\src\response\client.game.keepalive.js:4:14)
+    at Router.getResponse (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\router.js:13:273)
+    at Server.sendResponse (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\server.js:16:461)
+    at Inflate.cb (C:\Users\Kovacs\Documents\JET - Overhaul\Server - Dev Branch\core\server\server.js:19:229) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'user/cache/hideout_production.json'
+}
+[614.79s] [AID015919146370226073L4Q][LOCAL] -/client/game/logout

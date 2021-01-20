@@ -1,0 +1,36 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.39s] [SUCCESS]-Create: Static Response Callbacks
+[0.40s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.41s] [SUCCESS]-Create: Cache Callback
+[0.41s] [SUCCESS]-Create: Start Callback
+[0.41s] [SUCCESS]-Create: Receive Callback
+[0.41s] [SUCCESS]-Create: Respond Callback
+[0.41s] [SUCCESS]-Create: Classes as global variables
+[0.43s] [SUCCESS]-Create: Item Action Callbacks
+[0.44s] -┌────────────────────────┐
+[0.44s] -│ JustEmuTarkov 1.0.3    │
+[0.44s] -│ « discord.gg/T66tGKa » │
+[0.44s] -└────────────────────────┘
+[3.11s] [SUCCESS]-[LootFix] Settings applied
+[4.67s] [SUCCESS]-[MOD] LootFix; Applied
+[4.71s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[63.37s] [LOCAL] -/singleplayer/bundles
+[63.55s] [LOCAL] -/mode/offline
+[75.34s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[75.39s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[75.44s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[75.48s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[75.54s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[76.56s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[86.61s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[86.66s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[87.79s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[88.95s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[89.00s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[89.08s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[89.11s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[89.11s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[89.15s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[89.21s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[119.61s] [AID015919146370226073L4Q][LOCAL] -/client/locations?retry=1

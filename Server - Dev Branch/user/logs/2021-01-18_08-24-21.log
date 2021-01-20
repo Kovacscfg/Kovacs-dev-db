@@ -1,0 +1,22 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.06s] [WARNING]-Rebuilding cache system
+[0.41s] [SUCCESS]-Create: Static Response Callbacks
+[0.42s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.43s] [SUCCESS]-Create: Cache Callback
+[0.44s] [SUCCESS]-Create: Start Callback
+[0.44s] [SUCCESS]-Create: Receive Callback
+[0.44s] [SUCCESS]-Create: Respond Callback
+[0.44s] [SUCCESS]-Create: Classes as global variables
+[0.46s] [SUCCESS]-Create: Item Action Callbacks
+[0.46s] -┌────────────────────────┐
+[0.47s] -│ JustEmuTarkov 1.0.3    │
+[0.47s] -│ « discord.gg/T66tGKa » │
+[0.47s] -└────────────────────────┘
+[3.38s] [SUCCESS]-[LootFix] Settings applied
+[4.98s] [SUCCESS]-[MOD] LootFix; Applied
+[5.01s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[10.25s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[14.02s] [LOCAL] -/singleplayer/settings/raid/menu
+[14.79s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[21.86s] [AID015919146370226073L4Q][LOCAL] -/client/game/keepalive?retry=4
+[39.94s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
